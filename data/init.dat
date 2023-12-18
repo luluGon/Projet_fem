@@ -1,0 +1,3 @@
+2	    :: Definie la méthode, P1 ou P2, attention la méthode depend du fichier carre, certains sont P1, d'autre P2
+carreP2.2 :: nom du fichier, chaque fichier à un maillage différent
+2	    :: défnie la fonction f et la fonction exacte associé
